@@ -62,7 +62,9 @@ Give an example
 
 ## Instructor
 
-* **Prashant Mishra** - *Project Consultant at [Packt](www.packt.com)* - [Linked](https://www.linkedin.com/in/prashant-mishra-66162075/), [GitHub](https://github.com/prashantmishrapackt)
+* **Prashant Mishra** - *Project Consultant at [Packt](www.packt.com)* - 
+  - [Linked](https://www.linkedin.com/in/prashant-mishra-66162075/) 
+  - [GitHub](https://github.com/prashantmishrapackt)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
