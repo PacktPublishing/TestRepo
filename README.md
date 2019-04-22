@@ -38,7 +38,7 @@ And repeat
 until finished
 ```
 
-End with an example of getting some data out of the system or using it for a little demo. *_Don't forget to hyperlink it with the download section_*.
+End with an example of getting some data out of the system or using it for a little demo. **_Don't forget to hyperlink it with the download section_**.
 
 ## Running the tests
 
